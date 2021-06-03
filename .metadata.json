@@ -1,0 +1,12 @@
+[
+  {
+    "package": "educationdata",
+    "oncran": true
+  },
+  {
+    "package": "urbnmapr"
+  },
+  {
+    "package": "urbnthemes"
+  }
+]
