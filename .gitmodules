@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/urbaninstitute/universe
-	shallow = true
 	branch = HEAD
 [submodule "educationdata"]
 	path = educationdata
 	url = https://github.com/UrbanInstitute/education-data-package-r
-	shallow = true
-	registered = true
 [submodule "urbnmapr"]
 	path = urbnmapr
 	url = https://github.com/UrbanInstitute/urbnmapr
-	shallow = true
-	registered = true
 [submodule "urbnthemes"]
 	path = urbnthemes
 	url = https://github.com/UrbanInstitute/urbnthemes
-	shallow = true
-	registered = true
