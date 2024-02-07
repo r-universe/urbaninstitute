@@ -1,13 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/urbaninstitute/universe
+	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
 [submodule "educationdata"]
 	path = educationdata
-	url = https://github.com/UrbanInstitute/education-data-package-r
-[submodule "urbnmapr"]
-	path = urbnmapr
-	url = https://github.com/UrbanInstitute/urbnmapr
-[submodule "urbnthemes"]
-	path = urbnthemes
-	url = https://github.com/UrbanInstitute/urbnthemes
+	url = https://github.com/urbaninstitute/education-data-package-r
