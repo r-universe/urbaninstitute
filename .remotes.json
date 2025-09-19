@@ -1,0 +1,14 @@
+[
+  {
+    "package": "Rttf2pt1",
+    "url": "https://github.com/wch/Rttf2pt1",
+    "via": ["urbnthemes", "extrafont"],
+    "from": "urbnthemes"
+  },
+  {
+    "package": "extrafont",
+    "url": "https://github.com/wch/extrafont",
+    "via": ["urbnthemes"],
+    "from": "urbnthemes"
+  }
+]

@@ -2,9 +2,17 @@
 	path = .registry
 	url = https://github.com/urbaninstitute/urbaninstitute.r-universe.dev
 	branch = HEAD
+[submodule "Rttf2pt1"]
+	path = Rttf2pt1
+	url = https://github.com/wch/Rttf2pt1
+	registered = false
 [submodule "educationdata"]
 	path = educationdata
 	url = https://github.com/UrbanInstitute/education-data-package-r
+[submodule "extrafont"]
+	path = extrafont
+	url = https://github.com/wch/extrafont
+	registered = false
 [submodule "urbnmapr"]
 	path = urbnmapr
 	url = https://github.com/UrbanInstitute/urbnmapr
